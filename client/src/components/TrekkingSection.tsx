@@ -15,7 +15,7 @@ const trekkingRoutes = [
       "Nascer do sol nas dunas",
       "Lagoa Bonita e outras lagoas cristalinas",
     ],
-    priceFrom: "R$ 1.450",
+    priceFrom: "R$ 1.550",
   },
   {
     title: "Trekking 3 Dias e 2 Noites",
@@ -31,7 +31,7 @@ const trekkingRoutes = [
       "Transfer de volta para Santo Amaro",
       "Experiência cultural autêntica",
     ],
-    priceFrom: "R$ 1.900",
+    priceFrom: "R$ 1.950",
   },
   {
     title: "Trekking 4 Dias e 3 Noites",
@@ -47,7 +47,7 @@ const trekkingRoutes = [
       "Imersão total na natureza",
       "Experiência de 4 dias inesquecível",
     ],
-    priceFrom: "R$ 2.150",
+    priceFrom: "R$ 2.250",
   },
   {
     title: "Trekking 5 Dias e 4 Noites",
@@ -63,7 +63,7 @@ const trekkingRoutes = [
       "Convivência com nativos dos Lençóis",
       "Final épico com caiaque até Santo Amaro",
     ],
-    priceFrom: "R$ 2.550",
+    priceFrom: "R$ 2.750",
   },
 ];
 
