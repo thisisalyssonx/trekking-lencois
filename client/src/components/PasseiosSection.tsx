@@ -45,7 +45,7 @@ const passeios = [
     title: "Mirar das Estrelas",
     description: "Trilha noturna até ponto privilegiado para observação do céu estrelado, longe de qualquer poluição luminosa.",
     duration: "Noturno (4h)",
-    price: "R$ 1750",
+    price: "R$ 1.750",
     image: "/images/mirardasestrelas.jpg",
     included: ["Guia", "Translado", "Observação guiada"],
   },
